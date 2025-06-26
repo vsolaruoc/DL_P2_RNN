@@ -1,5 +1,5 @@
 # DL_P2_RNN
-Redes Neuronales Recurrentes con Keras
+Redes neuronales recurrentes con Keras
 
 # Autor:
 - Víctor M. Sola Rodríguez.
