@@ -1,5 +1,5 @@
-# DL_P2_RNN
-Redes neuronales recurrentes con Keras.
+# DL_P2_RNN_GRU_LSTM
+Redes neuronales recurrentes (RNN, GRU, LSTM) con Keras.
 
 # Autor:
 - Víctor M. Sola Rodríguez.
